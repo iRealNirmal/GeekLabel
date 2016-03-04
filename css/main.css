@@ -1,0 +1,35 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.section{
+	text-align: center;
+}
+#home{
+  font-size: 40px;
+  color: #fff;
+}
+#home img{
+	margin: 0 auto;
+}
+.mt150,.contents{
+	margin-top: 150px;
+}
+#map{
+	height:400px;
+}
+#home-content,#second-content{
+	-webkit-transition: all 0.5s; /* Safari */
+    transition: all 0.5s;
+}
+.a-link{
+	margin-top:80px;height:92px;display:inline-block;
+}
+.contents{
+	font-size: 56px;
+}
+.section img{
+	margin: 0 auto;
+	max-height: 400px;
+}

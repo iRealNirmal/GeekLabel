@@ -1,0 +1,20 @@
+body{font-size:14px;color:#414042}.section{text-align:center}.section img{margin:0 auto;max-height:400px}#home{font-size:40px;color:#fff}#home img{margin:0 auto}.mt150,.contents{margin-top:150px}.animater{-webkit-transition:all .5s;-moz-transition:all .5s;-o-transition:all .5s;transition:all .5s}.a-link{height:92px;display:inline-block}.contents{font-size:72px}.contents span{color:#d83454}#fifth-content h2{font-size:120px;margin-bottom:160px}#fifth-content .contents{max-width:80%;margin:0 auto}#fifth-content .title{font-size:14px;margin-top:60px}.pad-r-5-p>div>div{padding:0 2.5%}.car-left,.car-right{width:10%;float:left;height:132px;line-height:132px;vertical-align:middle}.caroufredsel_wrapper{width:80%!important;float:left!important}#carousel>div{float:left;text-align:center}#sixth-content h2{font-size:120px;margin-bottom:160px}#seventh-content h2,#eight-content h2{font-size:120px;margin-bottom:110px}#eight-content input{height:72px;padding:26px;margin-bottom:35px;-webkit-border-radius:6px 6px 6px;-webkit-background-clip:padding-box;-moz-border-radius:6px 6px 6px 6px;-moz-background-clip:padding;border-radius:6px 6px 6px 6px;background-clip:padding-box;border:solid 1px #ccc}#eight-content textarea{padding:26px;margin-bottom:35px;-webkit-border-radius:6px;-webkit-background-clip:padding-box;-moz-border-radius:6px;-moz-background-clip:padding;border-radius:6px;background-clip:padding-box;border:solid 1px #ccc;height:210px}#eight-content input[type=submit]{height:72px;padding:0;border:0;margin-bottom:35px;-webkit-border-radius:6px;-webkit-background-clip:padding-box;-moz-border-radius:6px;-moz-background-clip:padding;border-radius:6px;background-clip:padding-box;background-color:#d83454;color:#fff;font-size:28px}#eight-content .text{font-size:28px;text-align:center;margin-bottom:60px}#map{height:400px}.gm-style-iw{top:125px!important;width:200px;max-width:200px;left:180px!important}.gm-style-iw>div{max-height:250px!Important}.gm-style-iw #content{text-align:left;background:#fff;padding:10px}.gm-svpc div:hover{visibility:visible!important}@media screen and (max-width:1500px){.mt150,.contents{margin-top:50px}#fifth-content h2,#seventh-content h2,#eight-content h2{margin-bottom:50px;font-size:90px}#map{height:300px}}@media screen and (max-width:1100px){.contents{font-size:28px}#fifth-content .pad-r-5-p>div>div{margin-bottom:20px}#fifth-content .pad-r-5-p .title{font-size:12px}}@media screen and (max-width:800px){#fifth-content .pad-r-5-p{padding-right:0}#fifth-content .pad-r-5-p>div>div{margin-bottom:20px}#seventh-content h2,#sixth-content h2,#fifth-content h2,#eight-content h2{font-size:50px;margin-bottom:50px}#eight-content input[type=submit],#eight-content .text{font-size:28px}#eight-content textarea{height:110px}#eight-content input{height:48px}}@media screen and (max-width:480px){#fifth-content .pad-r-5-p .title{font-size:11px}}
+@media screen and (max-width: 767px) {
+#fifth-content .title{
+	margin-top:50%;
+}
+.car-left, .car-right,.caroufredsel_wrapper,#carousel{
+	width:100%!important;
+}
+.car-left,.car-right{
+	    transform: rotate(90deg);
+	    height:32px;
+	    line-height: 32px;
+		margin-left: 48%;
+		width: 32px!Important;
+}
+#carousel>div{
+	float:none;
+	margin:20px auto 0 auto;
+}
+}
